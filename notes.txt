@@ -1,0 +1,23 @@
+10 Epochs
+    Accuracy of the network: 61.0062893081761 %
+    Accuracy of paper: 66.98113207547169 %
+    Accuracy of rock: 29.245283018867923 %
+    Accuracy of scissors: 86.79245283018868 %
+
+20 Epochs
+    Accuracy of the network: 83.64779874213836 %
+    Accuracy of paper: 82.0754716981132 %
+    Accuracy of rock: 83.9622641509434 %
+    Accuracy of scissors: 84.90566037735849 %
+
+50 Epochs
+    Accuracy of the network: 92.45283018867924 %
+    Accuracy of paper: 91.50943396226415 %
+    Accuracy of rock: 91.50943396226415 %
+    Accuracy of scissors: 94.33962264150944 %
+
+100 Epochs
+    Accuracy of the network: 92.45283018867924 %
+    Accuracy of paper: 88.67924528301887 %
+    Accuracy of rock: 94.33962264150944 %
+    Accuracy of scissors: 94.33962264150944 %
